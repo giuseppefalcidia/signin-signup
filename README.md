@@ -1,6 +1,6 @@
 # Signin-Signup
 
-## Signin and SignUp page using: React.js, styled-components, framer-motion
+## Signin and SignUp pages using: React.js, styled-components, framer-motion
 
 <img width="553" alt="Screenshot 2022-02-05 at 10 29 22" src="https://user-images.githubusercontent.com/68688135/152636453-e078f7de-ff51-43dd-b463-ed0c537d3d57.png">
 
